@@ -52,10 +52,10 @@ textView.setText(textColouriser.getColourisedText());
 Methods
 -------
 * <b>TextColouriser</b>
-..* <b>getColourisedText()</b> - Returns a spannable with the colour applied to the text.
+  *<b>getColourisedText()</b> - Returns a spannable with the colour applied to the text.
 * <b>TextColouriser.Builder</b>
-..* <b>setColour(param)</b> - The colour to be applied to the text. Can either be a hex code as a string or a colour integer value.
-..* <b>setText(param)</b> - The text to be colourised. Can be any from the following: Character sequence, resource string, string and text view.
+  * <b>setColour(param)</b> - The colour to be applied to the text. Can either be a hex code as a string or a colour integer value.
+  * <b>setText(param)</b> - The text to be colourised. Can be any from the following: Character sequence, resource string, string and text view.
 
 License
 -------
