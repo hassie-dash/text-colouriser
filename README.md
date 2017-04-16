@@ -1,5 +1,5 @@
-Version Info Material Dialog
-============================
+Text Colouriser
+===============
 
 [![Build Status](https://travis-ci.org/hassie-dash/text-colouriser.svg?branch=master)](https://travis-ci.org/hassie-dash/text-colouriser) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/87303769318445568ba130697ed95e18)](https://www.codacy.com/app/hassie-dash/text-colouriser?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hassie-dash/text-colouriser&amp;utm_campaign=Badge_Grade) [![Download](https://api.bintray.com/packages/hassie/maven/text-colouriser/images/download.svg) ](https://bintray.com/hassie/maven/text-colouriser/_latestVersion)
 
